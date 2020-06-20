@@ -14,12 +14,16 @@
 
 <br>
 
+
+
 ### 좋아합니다
 
 경치보는 것을 좋아합니다. 아름다운 경치, 그리고 밤하늘의 밝은 달을 보는 것.
 
 시각적인 것을 좋아합니다. 조화로운, 아름다운 것. 그리고 감각적인.
 <br>
+
+
 
 
 ### 함께 하고 싶습니다
@@ -34,16 +38,24 @@
 <br>
 
 
+
+
 ### 기술
 - 웹개발 프론트엔드의 기본인 **HTML, CSS, javascript**를 학습했습니다.
-- 가장 널리 사용되는 javascript의 라이브러리 중 하나인 **React**를 학습했습니다.
+- 가장 널리 사용되는 javascript의 라이브러리 중 하나인 **React**를 학습했습니다
+   - **class형**, **function형** **compoenent**를 활용할 수 있습니다.
+   - 함수형은 **hook**을 사용하여, 클래스형은 생성자를 이용하여 **state**를 활용하고 **props**를 활용할 수 있습니다.
+   - **sass**를 활용하여 스타일을 보다 효율적(네스팅, 변수)으로 할 수 있습니다.
+   - **styled component**를 활용하여 스타일을 component적(재사용, props를 활용한 변화 등)으로 활용할 수 있습니다.
+   - **Redux**를 활용하여 전역 상태관리를 할 수 있습니다.
 - 코드관리 및 협업툴인 **git, github**를 학습하고 사용하고 있습니다.
 github주소 : https://github.com/PARKJONGSUN88
 - HTTP통신, 자료구조, 알고리즘은 수시로 학습하고 있습니다.
 - 그외 필요하다고 생각되는 Web의 기본이나 컴퓨터의 기초, 프론트엔드 외에도 백엔드의 기초개념 등은 수시로 학습하고 있습니다.
 
-
 <br>
+
+
 
 ### 프로젝트
 **1. 뉴스 데이터 시각화 프로젝트 (19.10.07~19.11.05 / 4주)** 
@@ -55,10 +67,18 @@ github주소 : https://github.com/PARKJONGSUN88
 - github : https://github.com/wecode-bootcamp-korea/aboutteatime-frontend
 - 구현된 페이지 동영상 : https://youtu.be/vfKG_wyZkGc
 - 개요 : 
-https://velog.io/@jongsunpark88/wecode-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0
+  https://velog.io/@jongsunpark88/wecode-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0
 
+**3. 기존 서비스 clone coding 프로젝트 (20.06.08~20.06.19 / 2주)**
+
+- github :  https://github.com/wecode-bootcamp-korea/Wepick-frontend 
+- 구현된 페이지 동영상 :  https://www.youtube.com/watch?v=3sZc05pvuCY 
+- 개요 : 
+   [https://velog.io/@jongsunpark88/wecode-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8](https://velog.io/@jongsunpark88/wecode-2차-프로젝트) 
 
 <br>
+
+
 
 ### 이런 개발자가 되고 싶습니다.
 
@@ -69,11 +89,15 @@ javascript가 나오게 된 이유처럼
 **interactive한 웹 구현을 하는 프론트엔드 개발자**가 되고 싶습니다.
 <br>
 
+
+
 ### 항상 다짐합니다..
 
 저는 항상 혼자서도 문제를 해!결! 해.버.리.는 개발자가 되고자 합니다.
 
 <br>
+
+
 
 이를 위해 항상 "어린아이에게도 배울 것이 있다"고 한 옛 말처럼
 
