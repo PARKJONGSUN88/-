@@ -1,6 +1,6 @@
 **velog :** https://velog.io/@jongsunpark88
 
-**velog:** [https://velog.io/@jongsunpark88/series/%EB%B0%95%EC%A2%85%EC%84%A0.js](https://velog.io/@jongsunpark88/series/박종선.js) 
+**velog:** [https://velog.io/@jongsunpark88/%EB%B0%95%EC%A2%85%EC%84%A0.js](https://velog.io/@jongsunpark88/series/박종선.js) 
 
 <br><br>
 
