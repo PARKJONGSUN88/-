@@ -2,7 +2,8 @@
 
 **velog:** [https://velog.io/@jongsunpark88/%EB%B0%95%EC%A2%85%EC%84%A0.js](https://velog.io/@jongsunpark88/series/박종선.js) 
 
-<br><br>
+<br>
+<br>
 
 ### 안녕하세요
 
@@ -13,8 +14,7 @@
 그로인해 **누군가가 기뻐해준다면 저는 큰 보람을 느낍니다.**
 
 <br>
-
-
+<br>
 
 ### 좋아합니다
 
@@ -22,9 +22,7 @@
 
 시각적인 것을 좋아합니다. 조화로운, 아름다운 것. 그리고 감각적인.
 <br>
-
-
-
+<br>
 
 ### 함께 하고 싶습니다
 
@@ -36,9 +34,7 @@
 
 그것이 **진정한 주니어 개발자의 자세**라고 생각합니다.
 <br>
-
-
-
+<br>
 
 ### 기술
 - 웹개발 프론트엔드의 기본인 **HTML, CSS, javascript**를 학습했습니다.
@@ -52,10 +48,8 @@
 github주소 : https://github.com/PARKJONGSUN88
 - HTTP통신, 자료구조, 알고리즘은 수시로 학습하고 있습니다.
 - 그외 필요하다고 생각되는 Web의 기본이나 컴퓨터의 기초, 프론트엔드 외에도 백엔드의 기초개념 등은 수시로 학습하고 있습니다.
-
 <br>
-
-
+<br>
 
 ### 프로젝트
 **1. 뉴스 데이터 시각화 프로젝트 (19.10.07~19.11.05 / 4주)** 
@@ -75,10 +69,8 @@ github주소 : https://github.com/PARKJONGSUN88
 - 구현된 페이지 동영상 :  https://www.youtube.com/watch?v=3sZc05pvuCY 
 - 개요 : 
    [https://velog.io/@jongsunpark88/wecode-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8](https://velog.io/@jongsunpark88/wecode-2차-프로젝트) 
-
 <br>
-
-
+<br>
 
 ### 이런 개발자가 되고 싶습니다.
 
@@ -88,16 +80,13 @@ github주소 : https://github.com/PARKJONGSUN88
 javascript가 나오게 된 이유처럼
 **interactive한 웹 구현을 하는 프론트엔드 개발자**가 되고 싶습니다.
 <br>
-
-
+<br>
 
 ### 항상 다짐합니다..
 
 저는 항상 혼자서도 문제를 해!결! 해.버.리.는 개발자가 되고자 합니다.
-
 <br>
-
-
+<br>
 
 이를 위해 항상 "어린아이에게도 배울 것이 있다"고 한 옛 말처럼
 
