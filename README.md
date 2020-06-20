@@ -18,12 +18,13 @@
 
 ### 좋아합니다
 
-경치보는 것을 좋아합니다. 아름다운 경치, 그리고 밤하늘의 밝은 달을 보는 것.
+**경치**보는 것을 좋아합니다. **아름다운 경치**, 그리고 **밤하늘의 밝은 달**을 보는 것.
 
-시각적인 것을 좋아합니다. 조화로운, 아름다운 것. 그리고 감각적인.
+**시각**적인 것을 좋아합니다. 조화로운, 아름다운 것. 그리고 **감각적**인.
 <br>
 <br>
 <br>
+
 ### 함께 하고 싶습니다
 
 회사와 개발자가 함께 성장할 수 있는 곳에서 좋은 분들과 일하고 싶습니다.
@@ -40,10 +41,16 @@
 - 웹개발 프론트엔드의 기본인 **HTML, CSS, javascript**를 학습했습니다.
 - 가장 널리 사용되는 javascript의 라이브러리 중 하나인 **React**를 학습했습니다.
    - **class형**, **function형** **compoenent**를 활용할 수 있습니다.
+   
    - 함수형은 **hook**을 사용하여, 클래스형은 생성자를 이용하여 **state**를 활용하고 **props**를 활용할 수 있습니다.
+   
    - **sass**를 활용하여 스타일을 보다 효율적(네스팅, 변수)으로 할 수 있습니다.
+   
    - **styled component**를 활용하여 스타일을 component적(재사용, props를 활용한 변화 등)으로 활용할 수 있습니다.
+   
    - **Redux**를 활용하여 전역 상태관리를 할 수 있습니다.
+   
+     <br>
 - 코드관리 및 협업툴인 **git, github**를 학습하고 사용하고 있습니다.
 github주소 : https://github.com/PARKJONGSUN88
 - HTTP통신, 자료구조, 알고리즘은 수시로 학습하고 있습니다.
@@ -54,14 +61,23 @@ github주소 : https://github.com/PARKJONGSUN88
 ### 프로젝트
 **1. 뉴스 데이터 시각화 프로젝트 (19.10.07~19.11.05 / 4주)** 
 - github : https://github.com/latte-horse
+
 - URL(aws) : http://www.issuewhatshow.com
+
 - 개요 : https://velog.io/@jongsunpark88/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
 
+  <br>
+
 **2. 기존 서비스 clone coding 프로젝트 (20.05.25~20.06.05 / 2주)**
+
 - github : https://github.com/wecode-bootcamp-korea/aboutteatime-frontend
+
 - 구현된 페이지 동영상 : https://youtu.be/vfKG_wyZkGc
+
 - 개요 : 
   https://velog.io/@jongsunpark88/wecode-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0
+  
+  <br>
 
 **3. 기존 서비스 clone coding 프로젝트 (20.06.08~20.06.19 / 2주)**
 
