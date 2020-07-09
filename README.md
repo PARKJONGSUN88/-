@@ -82,6 +82,7 @@ github주소 : https://github.com/PARKJONGSUN88
 
 **3. 기존 서비스 clone coding 프로젝트 (20.06.08~20.06.19 / 2주)**
 
+
 - github :  https://github.com/wecode-bootcamp-korea/Wepick-frontend 
 - 구현된 페이지 동영상 :  https://www.youtube.com/watch?v=3sZc05pvuCY 
 - 개요 : 
@@ -93,6 +94,10 @@ github주소 : https://github.com/PARKJONGSUN88
 
 개발자라면 기본인, 데이터를 다루고 기능 로직을 구현하고자 할 것입니다.
 더 나아가 저는 **유저에게 멋진 UI를 보여주고 싶습니다.**
+
+**UI 제작 project :** https://github.com/PARKJONGSUN88/wecode_project_4
+
+<br>
 
 javascript가 나오게 된 이유처럼
 **interactive한 웹 구현을 하는 프론트엔드 개발자**가 되고 싶습니다.
