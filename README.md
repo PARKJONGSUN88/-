@@ -61,6 +61,7 @@ github주소 : https://github.com/PARKJONGSUN88
 
 ### 프로젝트
 **1. 뉴스 데이터 시각화 프로젝트 (19.10.07~19.11.05 / 4주)** 
+<br>
 - github : https://github.com/latte-horse
 
 - URL(aws) : http://www.issuewhatshow.com
@@ -107,8 +108,6 @@ github주소 : https://github.com/PARKJONGSUN88
 
 개발자라면 기본인, 데이터를 다루고 기능 로직을 구현하고자 할 것입니다.
 더 나아가 저는 **유저에게 멋진 UI를 보여주고 싶습니다.**
-
-**UI 제작 project :** https://github.com/PARKJONGSUN88/wecode_project_4
 
 <br>
 
