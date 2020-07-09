@@ -86,6 +86,19 @@ github주소 : https://github.com/PARKJONGSUN88
 - 구현된 페이지 동영상 :  https://www.youtube.com/watch?v=3sZc05pvuCY 
 - 개요 : 
    [https://velog.io/@jongsunpark88/wecode-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8](https://velog.io/@jongsunpark88/wecode-2차-프로젝트) 
+
+<br>
+
+
+**4. UI component 만들기 프로젝트 (20.06.22~20.07.17 / 4주)**
+- github :  https://github.com/PARKJONGSUN88/wecode_project_4
+
+- 개요 :  
+
+  React의 꽃인 컴포넌트. 프론트엔드의 꽃인 UI. 리엑트를 이용하여 재사용이 가능한 UI를 만든다. 마치 유명한 라이브러리를 만들듯이, 남에게 배포한다는 마음으로 만들고자 했다.
+
+  TypeScript버젼과 React-Native버젼까지 추가하여 만들고자 하였다.
+
 <br>
 <br>
 
