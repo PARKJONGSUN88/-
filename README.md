@@ -53,7 +53,7 @@
    
      <br>
 - 코드관리 및 협업툴인 **git, github**를 학습하고 사용하고 있습니다.
-github주소 : https://github.com/PARKJONGSUN88
+-  github주소 : https://github.com/PARKJONGSUN88  
 - HTTP통신, 자료구조, 알고리즘은 수시로 학습하고 있습니다.
 - 그외 필요하다고 생각되는 Web의 기본이나 컴퓨터의 기초, 프론트엔드 외에도 백엔드의 기초개념 등은 수시로 학습하고 있습니다.
 <br>
@@ -61,7 +61,7 @@ github주소 : https://github.com/PARKJONGSUN88
 
 ### 프로젝트
 **1. 뉴스 데이터 시각화 프로젝트 (19.10.07~19.11.05 / 4주)** 
-<br>
+
 - github : https://github.com/latte-horse
 
 - URL(aws) : http://www.issuewhatshow.com
