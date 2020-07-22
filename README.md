@@ -48,7 +48,7 @@
    
    - **Styled-Component**를 활용하여 스타일을 **component답게**(재사용, props를 활용한 변화 등) 활용할 수 있습니다.
    
-   - **Redux**를 활용하여 **전역 상태관리**를 할 수 있습니다.
+   - **Redux**를 활용하여 **전역 상태관리**를 할 수 있습니다.      
      
 - **TypeScript**를 활용하여 **타입지정**을 할 수 있습니다.  
 - **React-Native**를 활용하여 **앱, 웹 개발**을 할 수 있습니다.
@@ -71,35 +71,48 @@
 
   <br>
 
-**2. Clone coding-1 프로젝트 (20.05.25~20.06.05 / 2주)**
+**2. 오설록 프로젝트 (20.05.25~20.06.05 / 2주)**
 - github : https://github.com/PARKJONGSUN88/wecode_project_2
 - 구현된 페이지 영상 : https://www.youtube.com/watch?v=vfKG_wyZkGc
 - 개요 : https://velog.io/@jongsunpark88/projectW1
 
-이미 서비스 중인 사이트를 clone하는 clone coding 프로젝트로,
+이미 서비스 중인 사이트를 **Clone Coding** 프로젝트로,
 대상 사이트는 "https://www.osulloc.com/" 입니다.
   
 <br>
 
-**3. Clone coding-2 프로젝트 (20.06.08~20.06.19 / 2주)**
+**3. 원티드 프로젝트 (20.06.08~20.06.19 / 2주)**
 - github :  https://github.com/PARKJONGSUN88/wecode_project_3
 - 구현된 페이지 영상 :  https://www.youtube.com/watch?v=3sZc05pvuCY
 - 개요 : https://velog.io/@jongsunpark88/projectW2
 
-이미 서비스 중인 사이트를 clone하는 clone coding 프로젝트로,
+이미 서비스 중인 사이트를 **Clone Coding** 프로젝트로,
 대상 사이트는 "https://www.wanted.co.kr/" 입니다.
 
 <br>
-
 
 **4. UI Component 프로젝트 (20.06.22~20.07.17 / 4주)**
 - github :  https://github.com/PARKJONGSUN88/wecode_project_4
 
 React 이용하여 재사용이 가능한 UI를 만드는 프로젝트로,
-내가 사용하는 것이 아닌, 남에게 배포한다는 마음으로 개발하고자 하였습니다.
+내가 사용하는 것이 아닌, 남에게 배포한다는 생각으로 개발하고자 하였습니다.
 
-TypeScript버전과 React-Native버전까지 추가해보고자 하였습니다.
+**TypeScript**버전과 **React-Native**버전으로 만들어보고자 하였습니다.
 
+<br>
+<br>
+<br>
+
+
+### 인턴쉽
+
+**DOOBOOLAB (20.06.22~20.07.17 / 4주)**
+
+- **dooboolab github:** https://github.com/dooboolab
+
+React-Native로 웹뿐 아니라 앱환경(안드로이드와 IOS)에서 한번에 사용가능한 UI컴포넌트를 개발하고자 하였습니다.
+
+<br>
 <br>
 <br>
 
