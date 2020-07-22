@@ -67,9 +67,8 @@
 - 개요 : https://velog.io/@jongsunpark88/projectM1
 
 실시간 검색어를 바탕으로 뉴스기사를 수집하여 뉴스기사의 중요키워드를 추출하고 분석하여, 그 키워드들간의 관계를 한눈에 보여주는 서비스입니다.
-<br>
-·  JavaScript의 3D시각화 라이브러리인 3D.js를 사용하여 뉴스데이터를 시각화
 
+·  JavaScript의 3D시각화 라이브러리인 3D.js를 사용하여 뉴스데이터를 시각화
 ·  Jquery, JavaScript를 사용하여 UI 구현
    - 현재 시간, 토글메뉴
    - 메뉴 클릭시 해당 노드로 카메라 이동
@@ -83,7 +82,7 @@
 - 개요 : https://velog.io/@jongsunpark88/projectW1
 
 이미 서비스 중인 사이트를 **Clone Coding** 프로젝트로, 대상 사이트는 "https://www.osulloc.com/" 입니다.
-<br>
+
 ·  React의 클래스형 컴포넌트로 구현
 ·  JWT토큰을 발행, 이용하여 로그인 구현
 ·  Back-End와 REST 통신으로 데이터 전송
@@ -101,7 +100,7 @@
 - 개요 : https://velog.io/@jongsunpark88/projectW2
 
 이미 서비스 중인 사이트를 **Clone Coding** 프로젝트로,대상 사이트는 "https://www.wanted.co.kr/" 입니다.
-<br>
+
 ·  React의 함수형 컴포넌트로 구현
 ·  Google 소셜 로그인 구현
 ·  Hook을 이용한 State 및 Side Effect 구현
