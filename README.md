@@ -113,8 +113,7 @@
 **4. UI Component 프로젝트 (20.06.22~20.07.17 / 4주)**
 - github :  https://github.com/PARKJONGSUN88/wecode_project_4
 
-React 이용하여 재사용이 가능한 UI를 만드는 프로젝트로,
-내가 사용하는 것이 아닌, 남에게 배포한다는 생각으로 개발하고자 하였습니다.
+React 이용하여 재사용이 가능한 UI를 만드는 프로젝트로, 내가 사용하는 것이 아닌, 남에게 배포한다는 생각으로 개발하고자 하였습니다.
 <br>
 **TypeScript**버전과 **React-Native**버전으로 만들어보고자 하였습니다.
 
