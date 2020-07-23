@@ -1,6 +1,5 @@
 **github:** https://github.com/PARKJONGSUN88/Intro <br>**velog :** https://velog.io/@jongsunpark88/me
 
-
 <br>
 <br>
 
@@ -11,7 +10,7 @@
 **새로운 것을 만들거나 개선**하는 것을 좋아하며 
 
 그로인해 **누군가가 기뻐해준다면 저는 큰 보람을 느낍니다.**
-
+<br>
 <br>
 <br>
 
@@ -59,13 +58,15 @@
 - 그외 필요하다고 생각되는 **Web의 기본**이나 **컴퓨터공학**, 프론트엔드 외에도 **백엔드의 기초개념(API, Data Modeling)** 등은 수시로 학습하고 있습니다.
 <br>
 <br>
+<br>
 
 ## 인턴쉽
 
-### DOOBOOLAB (20.06.22~20.07.17 / 4주)
+### DOOBOOLAB
+- 20.06.22~20.07.17 (4주)
 - **dooboolab github:** https://github.com/dooboolab
-
-**React-Native**로 웹뿐 아니라 앱환경(안드로이드와 IOS)에서 한번에 사용가능한 UI컴포넌트를 개발하고자 하였습니다.
+<br>
+#### React-Native로 웹뿐 아니라 앱환경(안드로이드와 IOS)에서 한번에 사용가능한 UI컴포넌트를 개발하고자 하였습니다.
 -  Props를 사용하여 사용자가 **Custom**할 수 있는 UI 제공
 -  **TypeScript**, JavaScript버전 / React, React-Native버전 제공
 -  github:  https://github.com/PARKJONGSUN88/wecode_project_4
@@ -74,13 +75,14 @@
 <br>
 
 ## 프로젝트
-### 데이터 시각화 프로젝트 (19.10.07~19.11.05 / 4주)
+
+### 데이터 시각화 프로젝트
+- 19.10.07~19.11.05 (4주)
 - github: https://github.com/latte-horse
 - 서비스(AWS): http://www.issuewhatshow.com
 - 개요: https://velog.io/@jongsunpark88/projectM1
-
-**실시간 검색어**를 바탕으로 뉴스기사를 수집하여 뉴스기사의 **중요키워드를 추출**하고 분석하여, 그 **키워드들간의 관계**를 한눈에 보여주는 서비스입니다.
-
+<br>
+#### 실시간 검색어를 바탕으로 뉴스기사를 수집하여 뉴스기사의 중요키워드를 추출하고 분석하여, 그 키워드들간의 관계를 한눈에 보여주는 서비스입니다.
 -  JavaScript의 3D시각화 라이브러리인 3D.js를 사용하여 **뉴스데이터를 시각화**
 -  Jquery, JavaScript를 사용하여 UI 구현
    - 현재 시간, 토글메뉴
@@ -89,13 +91,13 @@
 <br>
 <br>
 
-### 오설록 프로젝트 (20.05.25~20.06.05 / 2주)
+### 오설록 프로젝트
+- 20.05.25~20.06.05 (2주)
 - github: https://github.com/PARKJONGSUN88/wecode_project_2
 - 구현된 페이지 영상: https://www.youtube.com/watch?v=vfKG_wyZkGc
 - 개요: https://velog.io/@jongsunpark88/projectW1
-
-시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.osulloc.com/" 입니다.
-
+<br>
+#### 시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.osulloc.com/" 입니다.
 -  React의 **클래스형 컴포넌트**로 구현
 -  **JWT토큰**을 발행, 이용하여 로그인 구현
 -  Back-End와 **REST 통신**으로 데이터 전송
@@ -107,13 +109,13 @@
 <br>  
 <br>
 
-### 원티드 프로젝트 (20.06.08~20.06.19 / 2주)
+### 원티드 프로젝트
+- 20.06.08~20.06.19 (2주)
 - github:  https://github.com/PARKJONGSUN88/wecode_project_3
 - 구현된 페이지 영상:  https://www.youtube.com/watch?v=3sZc05pvuCY
 - 개요: https://velog.io/@jongsunpark88/projectW2
-
-시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.wanted.co.kr/" 입니다.
-
+<br>
+#### 시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.wanted.co.kr/" 입니다.
 -  React의 **함수형 컴포넌트**로 구현
 -  Google **소셜 로그인** 구현
 -  **Hook**을 이용한 State 및 Side Effect 구현
