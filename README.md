@@ -65,7 +65,9 @@
 ### DOOBOOLAB
 - 20.06.22~20.07.17 (4주)
 - **dooboolab github:** https://github.com/dooboolab
+
 <br>
+
 #### React-Native로 웹뿐 아니라 앱환경(안드로이드와 IOS)에서 한번에 사용가능한 UI컴포넌트를 개발하고자 하였습니다.
 
 -  Props를 사용하여 사용자가 **Custom**할 수 있는 UI 제공
@@ -82,7 +84,9 @@
 - github: https://github.com/latte-horse
 - 서비스(AWS): http://www.issuewhatshow.com
 - 개요: https://velog.io/@jongsunpark88/projectM1
+
 <br>
+
 #### 실시간 검색어를 바탕으로 뉴스기사를 수집하여 뉴스기사의 중요키워드를 추출하고 분석하여, 그 키워드들간의 관계를 한눈에 보여주는 서비스입니다.
 
 -  JavaScript의 3D시각화 라이브러리인 3D.js를 사용하여 **뉴스데이터를 시각화**
@@ -98,7 +102,9 @@
 - github: https://github.com/PARKJONGSUN88/wecode_project_2
 - 구현된 페이지 영상: https://www.youtube.com/watch?v=vfKG_wyZkGc
 - 개요: https://velog.io/@jongsunpark88/projectW1
+
 <br>
+
 #### 시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.osulloc.com/" 입니다.
 
 -  React의 **클래스형 컴포넌트**로 구현
@@ -117,7 +123,9 @@
 - github:  https://github.com/PARKJONGSUN88/wecode_project_3
 - 구현된 페이지 영상:  https://www.youtube.com/watch?v=3sZc05pvuCY
 - 개요: https://velog.io/@jongsunpark88/projectW2
+
 <br>
+
 #### 시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.wanted.co.kr/" 입니다.
 
 -  React의 **함수형 컴포넌트**로 구현
