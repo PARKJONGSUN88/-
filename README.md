@@ -66,8 +66,6 @@
 - 20.06.22~20.07.17 (4주)
 - **dooboolab github:** https://github.com/dooboolab
 
-<br>
-
 #### React-Native로 웹뿐 아니라 앱환경(안드로이드와 IOS)에서 한번에 사용가능한 UI컴포넌트를 개발하고자 하였습니다.
 
 -  Props를 사용하여 사용자가 **Custom**할 수 있는 UI 제공
