@@ -136,9 +136,10 @@
 
 개발자라면 기본인 데이터를 다루고, 기능 로직을 구현하고자 합니다.
 더 나아가 **유저에게 멋진 UI를 보여주고 싶습니다.**
-<br>
+
 **현재**는 재사용이 가능한 여러가지 UI들을 개발해보고 있습니다.
-github: https://github.com/PARKJONGSUN88/React-ui-js
+
+- github: https://github.com/PARKJONGSUN88/React-ui-js
 <br>
 
 JavaScript가 나오게 된 이유처럼
