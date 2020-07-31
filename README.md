@@ -5,11 +5,11 @@
 
 ## 안녕하세요
 
-저는 프론트엔드 주니어 개발자를 꿈꾸는 박종선입니다.
+**UI**와 **React**에 관심많은 프론트엔드 주니어 개발자 **박종선**입니다.
 
-**새로운 것을 만들거나 개선**하는 것을 좋아하며 
+**응용**하고 만드는 것을 좋아합니다. **효율**적인 것을 좋아합니다. 
 
-그로인해 **누군가가 기뻐해준다면 저는 큰 보람을 느낍니다.**
+라이브러리 사용은 최소화 하고자 합니다.
 <br>
 <br>
 <br>
@@ -37,18 +37,19 @@
 <br>
 
 ## 기술
+
 - 웹개발 프론트엔드의 기본인 **HTML, CSS, JavaScript**를 학습했습니다.
 - 가장 널리 사용되는 javascript의 라이브러리 중 하나인 **React**를 학습했습니다.
-   - **Class형**, **Function형** **Compoenent**를 활용할 수 있습니다.
-   
-   - 함수형은 **Hook**을 사용하여, 클래스형은 생성자를 이용하여 **State**를 활용하고 **Props**를 활용할 수 있습니다.
-   
-   - **Sass**를 활용하여 스타일을 보다 **효율적**(네스팅, 변수)으로 할 수 있습니다.
-   
-   - **Styled-Component**를 활용하여 스타일을 **component답게**(재사용, props를 활용한 변화 등) 활용할 수 있습니다.
-   
-   - **Redux**를 활용하여 **전역 상태관리**를 할 수 있습니다.      
-     
+  - **Class형**, **Function형** **Compoenent**를 활용할 수 있습니다.
+
+  - 함수형은 **Hook**을 사용하여, 클래스형은 생성자를 이용하여 **State**를 활용하고 **Props**를 활용할 수 있습니다.
+
+  - **Sass**를 활용하여 스타일을 보다 **효율적**(네스팅, 변수)으로 할 수 있습니다.
+
+  - **Styled-Component**를 활용하여 스타일을 **component답게**(재사용, props를 활용한 변화 등) 활용할 수 있습니다.
+
+  - **Redux**를 활용하여 **전역 상태관리**를 할 수 있습니다.      
+
 - **TypeScript**를 활용하여 **타입지정**을 할 수 있습니다.  
 - **React-Native**를 활용하여 **앱, 웹 개발**을 할 수 있습니다.
 
@@ -63,6 +64,7 @@
 ## 인턴쉽
 
 ### DOOBOOLAB
+
 - 20.06.22~20.07.17 (4주)
 - **dooboolab github:** https://github.com/dooboolab
 
@@ -77,42 +79,8 @@
 
 ## 프로젝트
 
-### 데이터 시각화 프로젝트
-- 19.10.07~19.11.05 (4주)
-- github: https://github.com/latte-horse
-- 서비스(AWS): http://www.issuewhatshow.com
-- 개요: https://velog.io/@jongsunpark88/projectM1
-
-#### 실시간 검색어를 바탕으로 뉴스기사를 수집하여 뉴스기사의 중요키워드를 추출하고 분석하여, 그 키워드들간의 관계를 한눈에 보여주는 서비스입니다.
-
--  JavaScript의 3D시각화 라이브러리인 3D.js를 사용하여 **뉴스데이터를 시각화**
--  Jquery, JavaScript를 사용하여 UI 구현
-   - 현재 시간, 토글메뉴
-   - 메뉴 클릭시 해당 노드로 카메라 이동
-   - 페이지네이션
-<br>
-<br>
-
-### 오설록 프로젝트
-- 20.05.25~20.06.05 (2주)
-- github: https://github.com/PARKJONGSUN88/wecode_project_2
-- 구현된 페이지 영상: https://www.youtube.com/watch?v=vfKG_wyZkGc
-- 개요: https://velog.io/@jongsunpark88/projectW1
-
-#### 시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.osulloc.com/" 입니다.
-
--  React의 **클래스형 컴포넌트**로 구현
--  **JWT토큰**을 발행, 이용하여 로그인 구현
--  Back-End와 **REST 통신**으로 데이터 전송
--  **쿼리스트링, 파라미터**를 이용한 Router 이동
--  **Sass**를 이용한 네스팅 스타일 적용
--  **Props, State**를 사용하여 이벤트 핸들러 처리
--  **애니메이션, 스크롤 이벤트, 타이머 이벤트** 구현
--  **Git, Github**을 이용한 코드관리 및 스크럼 방식 개발
-<br>  
-<br>
-
 ### 원티드 프로젝트
+
 - 20.06.08~20.06.19 (2주)
 - github:  https://github.com/PARKJONGSUN88/wecode_project_3
 - 구현된 페이지 영상:  https://www.youtube.com/watch?v=3sZc05pvuCY
@@ -128,6 +96,43 @@
 -  **Git rebase**를 활용한 팀 코드관리
 <br>
 <br>
+
+### 오설록 프로젝트
+
+- 20.05.25~20.06.05 (2주)
+- github: https://github.com/PARKJONGSUN88/wecode_project_2
+- 구현된 페이지 영상: https://www.youtube.com/watch?v=vfKG_wyZkGc
+- 개요: https://velog.io/@jongsunpark88/projectW1
+
+#### 시중 서비스와 같은 웹서비스를 개발하는 프로젝트로, 대상 사이트는 "https://www.osulloc.com/" 입니다.
+
+-  React의 **클래스형 컴포넌트**로 구현
+-  **JWT토큰**을 발행, 이용하여 로그인 구현
+-  Back-End와 **REST 통신**으로 데이터 전송
+-  **쿼리스트링, 파라미터**를 이용한 Router 이동
+-  **Sass**를 이용한 네스팅 스타일 적용
+-  **Props, State**를 사용하여 이벤트 핸들러 처리
+-  **애니메이션, 스크롤 이벤트, 타이머 이벤트** 구현
+-  **Git, Github**을 이용한 코드관리 및 스크럼 방식 개발
+<br>
+<br>
+
+### 데이터 시각화 프로젝트
+
+- 19.10.07~19.11.05 (4주)
+- github: https://github.com/latte-horse
+- 서비스(AWS): http://www.issuewhatshow.com
+- 개요: https://velog.io/@jongsunpark88/projectM1
+
+#### 실시간 검색어를 바탕으로 뉴스기사를 수집하여 뉴스기사의 중요키워드를 추출하고 분석하여, 그 키워드들간의 관계를 한눈에 보여주는 서비스입니다.
+
+-  JavaScript의 3D시각화 라이브러리인 3D.js를 사용하여 **뉴스데이터를 시각화**
+-  Jquery, JavaScript를 사용하여 UI 구현
+   - 현재 시간, 토글메뉴
+   - 메뉴 클릭시 해당 노드로 카메라 이동
+   - 페이지네이션
+<br>
+<br>
 <br>
 
 ## 이런 개발자가 되고 싶습니다.
@@ -138,7 +143,7 @@
 **현재**는 재사용이 가능한 여러가지 UI들을 개발해보고 있습니다.
 
 - github: https://github.com/PARKJONGSUN88/React-ui-js
-<br>
+  <br>
 
 JavaScript가 나오게 된 이유처럼
 **Interactive한 기능 구현을 하는 프론트엔드 개발자**가 되고 싶습니다.
@@ -149,7 +154,6 @@ JavaScript가 나오게 된 이유처럼
 ## 항상 다짐합니다..
 
 저는 항상 혼자서도 문제를 해결! 해.버.리.는 개발자가 되고자 합니다.
-<br>
 <br>
 
 이를 위해 항상 "어린아이에게도 배울 것이 있다"고 한 옛 말처럼
