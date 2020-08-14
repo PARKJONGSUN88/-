@@ -127,7 +127,7 @@
 ### 데이터 시각화 프로젝트
 
 - 19.10.07~19.11.05 (4주)
-- github: https://github.com/latte-horse
+- github: https://github.com/PARKJONGSUN88/multicampus_project_2
 - 서비스(AWS): http://www.issuewhatshow.com
 - 개요: https://velog.io/@jongsunpark88/projectM1
 
